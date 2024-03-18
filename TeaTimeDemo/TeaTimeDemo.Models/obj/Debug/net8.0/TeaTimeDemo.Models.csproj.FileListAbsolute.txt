@@ -21,3 +21,15 @@ C:\Users\asus\OneDrive\桌面\ASP課本\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug
 C:\Users\asus\OneDrive\桌面\ASP課本\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\refint\TeaTimeDemo.Models.dll
 C:\Users\asus\OneDrive\桌面\ASP課本\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.pdb
 C:\Users\asus\OneDrive\桌面\ASP課本\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\ref\TeaTimeDemo.Models.dll
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.deps.json
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.dll
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\bin\Debug\net8.0\TeaTimeDemo.Models.pdb
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.AssemblyInfo.cs
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.sourcelink.json
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.dll
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\refint\TeaTimeDemo.Models.dll
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\TeaTimeDemo.Models.pdb
+C:\Users\asus\OneDrive\桌面\asp.net book\TeaTimeDemo\TeaTimeDemo.Models\obj\Debug\net8.0\ref\TeaTimeDemo.Models.dll

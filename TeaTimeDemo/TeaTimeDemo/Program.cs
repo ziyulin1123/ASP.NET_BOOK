@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using TeaTimeDemo.Models;
 using TeaTimeDemo.DataAccess.Data;
+using TeaTimeDemo.DataAccess.Repository.IRepository;
+using TeaTimeDemo.DataAccess.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +11,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString(
     "DefaultConnection")));
+
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();
 

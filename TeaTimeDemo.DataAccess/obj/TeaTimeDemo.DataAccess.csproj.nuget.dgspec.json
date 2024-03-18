@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {}
+    "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
+    "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
         "projectName": "TeaTimeDemo.DataAccess",
-        "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
+        "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo.DataAccess\\TeaTimeDemo.DataAccess.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
-                "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj"
+              "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
+                "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj"
               },
-              "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
-                "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj"
+              "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
+                "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
+    "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
         "projectName": "TeaTimeDemo.Models",
-        "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+        "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Models\\obj\\",
+        "outputPath": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
+    "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
         "projectName": "TeaTimeDemo.Utility",
-        "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
+        "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Utility\\TeaTimeDemo.Utility.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Utility\\obj\\",
+        "outputPath": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

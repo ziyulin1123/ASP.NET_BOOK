@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
       "projectName": "TeaTimeDemo.Models",
-      "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
+      "projectPath": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Models\\TeaTimeDemo.Models.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\OneDrive\\桌面\\ASP課本\\TeaTimeDemo\\TeaTimeDemo.Models\\obj\\",
+      "outputPath": "C:\\Users\\asus\\OneDrive\\桌面\\asp.net book\\TeaTimeDemo\\TeaTimeDemo.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
